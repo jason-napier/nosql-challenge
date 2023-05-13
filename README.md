@@ -24,3 +24,6 @@ README:
 	-This file explaining project.
 Resources/ establishments.json:
 	-The data loaded for this analysis.
+
+Notes:
+Special thanks to Tim Matanick and Em Greene for collaberation on some questions.
